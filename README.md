@@ -1,6 +1,7 @@
 # CalculationGame
 一个四则运算的游戏
 
+
 ## 功能列表
 ### 1.随机生成四则运算
 ![生成式子](https://github.com/XiaofengYue/CalculationGame/blob/master/CalculationGGGame/CalculationGGGame/Image/随机生成式子.gif)
